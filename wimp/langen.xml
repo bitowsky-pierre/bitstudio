@@ -1,0 +1,156 @@
+<?xml version='1.0' ?>
+<str>
+	<!-- INFO ABOUT NOT SUPPORTING WEBGL -->
+	<en id="abc">WARNING!
+We detected that your browser did not support WebGL (it's responsible for effects). Playing this game without it is not impossible but some effects won't appear, which can break fun. Click to continue...</en>
+	<pl id="abc">UWAGA!
+Wykrylismy, ze twoja przegladarka nie obsluguje WebGL (jest odpowiedzialna za efekty). Granie bez tego nie jest niemozliwe ale niektore efekty sie nie pojawia, co moze popsuc zabawe. Kliknij aby kontynuowac...</pl>
+	<en id="clicktocontinue">(Click to continue...)</en>
+	<pl id="clicktocontinue">(Kliknij aby kontynuowac...)</pl>
+	<!-- CONFIGURATION TEXT -->
+	<en id="howtoplay">How to play?</en>
+	<pl id="howtoplay">Jak grac?</pl>
+	<en id="start">Start</en>
+	<pl id="start">Start</pl>
+	<en id="sett">Settings</en>
+	<pl id="sett">Ustawienia</pl>
+	<en id="off">Off</en>
+	<pl id="off">Wyl.</pl>
+	<en id="on">On</en>
+	<pl id="on">Wl.</pl>
+	<en id="time">Time</en>
+	<pl id="time">Czas</pl>
+	<en id="h0">Time per round.</en>
+	<pl id="h0">Ilosc czasu przeznaczonego na runde</pl>
+	<en id="dz">Dead zone</en>
+	<pl id="dz">Martwa strefa</pl>
+	<en id="h1">Size of an area you need to put the cursor on in order to gain a point. Big dead zone means an easy game, small means hard.</en>
+	<pl id="h1">Rozmiar obszaru, gdzie nalezy ustawic kursor aby zdobyc punkt. Duzy obszar oznacza latwiejsza gre, natomiast mniejszy obszar oznacza trudniejsza gre.</pl>
+	<en id="dzr">Dead zone
+reduction</en>
+	<pl id="dzr">Redukcja
+martwej strefy</pl>
+	<en id="h2">Amount of dead zone pixels that will be reduced after gaining point. Dead zone cannot be smaller than 5px.</en>
+	<pl id="h2">Liczba pikseli o ile zmniejszy sie martwa strefa po zdobyciu punktu. Martwa strefa nie moze byc mniejsza niz 5px.</pl>
+	<en id="rd">Reversed directions</en>
+	<pl id="rd">Odwrocone kierunki</pl>
+	<en id="h3">If enabled, there will be chance that directions will be switched. Once they are, their text will be changed to blue.</en>
+	<pl id="h3">Gdy wlaczone, bedzie szansa ze kierunki zostana zmienione. Kiedy zostana one zmienione, tekst zmieni kolor na niebieski.</pl>
+	<en id="rdc">Reverse directions
+chances</en>
+	<pl id="rdc">Szanse na
+odwrocone kierunki</pl>
+	<en id="h4">Chances that after gaining a point, the directions will be reversed. Bigger percent means bigger chances.</en>
+	<pl id="h4">Szanse na to, ze po zdobyciu punktu, kierunki zostana zmienione. Wiekszy procent oznacza wieksze szanse.</pl>
+	<!-- HOW TO PLAY -->
+	<en id="back">Back</en>
+	<pl id="back">Wróc</pl>
+	<en id="prev">Prev</en>
+	<pl id="prev">Poprz.</pl>
+	<en id="next">Next</en>
+	<pl id="next">Nast.</pl>
+	
+	
+	
+	<en id="i0">PLAYING SOLO</en>
+	<pl id="i0">GRANIE SOLO</pl>
+	<en id="i1">Your goal is to find area acceptable by your mouse.</en>
+	<pl id="i1">Twoim celem jest znalezienie obszaru akceptowalnego przez myszke.</pl>
+	<en id="i2">To find it, you must use hints showed on the screen. They will say if you have to go "left"/"right" or "up"/"down" (cursor will be hidden).</en>
+	<pl id="i2">Aby go znalezc, musisz uzyc podpowiedzi pokazanych na ekranie. Powiedza ci one, czy masz isc "w góre/ w dól" czy "w lewo/ w prawo" (kursor zostanie ukryty).</pl>
+	<en id="i3">If your x or y position will be correct, there will be shown "ok" message. If you manage to get two "ok"s, click LMB (left mouse button) and you will get point.</en>
+	<pl id="i3">Kiedy twoja pozycja x lub y bedzie poprawna, zostanie pokazany napis "ok". Jezeli pojawia sie dwa napisy "ok", nacisnij LPM (lewy przycisk myszy) i otrzymasz punkt.</pl>
+	<en id="i4">If your x or y position will be correct, there will be shown "ok" message. If you manage to get two "ok"s, click LMB (left mouse button) and you will get point.</en>
+	<pl id="i4">Kiedy twoja pozycja x lub y bedzie poprawna, zostanie pokazany napis "ok". Jezeli pojawia sie dwa napisy "ok", nacisnij LPM (lewy przycisk myszy) i otrzymasz punkt.</pl>
+	<en id="i5">Once LMB is clicked (after two "ok"s), a new area will be randomly generated</en>
+	<pl id="i5">Kiedy LPM zostanie wcisniete (po dwóch napisach "ok"), zostanie wygenerowany losowo nowy obszar.</pl>
+	<en id="i6">Gain points before time runs out. Game will inform you about time when you'll have 10 seconds left.</en>
+	<pl id="i6">Zdobywaj punkty zanim minie czas. Gra poinformuje cie, gdy pozostanie ci 10 sekund.</pl>
+	<en id="i7">A lot of additional settings can be added to the game. You can set them on menu screen. If you don't know what these setting are doing, move cursor over "?" sign on the left.</en>
+	<pl id="i7">Mozesz dodac wiele dodatkowych ustawien. Mozesz je ustawic na ekranie menu. Jezeli nie wiesz co robi dane ustawienie, najedz myszka nad symbol "?" po lewej stronie.</pl>
+	<en id="i8">PLAYING WITH FRIENDS</en>
+	<pl id="i8">GRANIE ZE ZNAJOMYMI</pl>
+	<en id="i9">Your goal is to find area acceptable by your mouse.</en>
+	<pl id="i9">Waszym celem jest znalezienie obszaru akceptowalnego przez myszke.</pl>
+	<en id="i10">One of you will be 'master of mouse'. Others are 'helpers'.</en>
+	<pl id="i10">Jeden z was zostaje 'mistrzem myszki'. Pozostali to 'pomocnicy'</pl>
+	<en id="i11">'Master' will have a mouse and he will move it. 'Helpers' have to navigate him in a correct way.</en>
+	<pl id="i11">'Mistrz' bedzie posiadal myszke i bedzie nia poruszal. 'Pomocnicy' musza go kierowac w poprawna strone.</pl>
+	<en id="i12">'Master' can't look at the screen.</en>
+	<pl id="i12">'Mistrz' nie moze patrzec na ekran.</pl>
+	<en id="i13">'Helpers' have to use hints showed on the screen. It will say if 'master' have to go "left"/"right" or "up"/"down" (cursor will be hidden).</en>
+	<pl id="i13">'Pomocnicy' musza uzywac podpowiedzi pokazanych na ekranie. Powiedza one, czy 'mistrz' ma isc "w góre/ w dól" czy "w lewo/ w prawo" (kursor zostanie ukryty).</pl>
+	<en id="i14">If 'master' x or y position will be correct, there will be shown "ok" message. If he manage to get two "ok"s, tell him to click LMB (left mouse button) and you will get point.</en>
+	<pl id="i14">Jezeli pozycja x lub y 'mistrza' bedzie poprawna, zostanie pokazany napis "ok". Jezeli pojawia sie dwa napisy "ok", powiedzcie aby nacisnal LPM (lewy przycisk myszy) i otrzymacie punkt.</pl>
+	<en id="i15">Once LMB is clicked (after two "ok"s), a new area will be randomly generated.</en>
+	<pl id="i15">Kiedy LPM zostanie wcisniete (po dwóch napisach "ok"), zostanie wygenerowany losowo nowy obszar.</pl>
+	<en id="i16">Gain points before time runs out. Game will inform you about time when you'll have 10 seconds left.</en>
+	<pl id="i16">Zdobywajcie punkty zanim minie czas. Gra poinformuje was, gdy pozostanie wam 10 sekund.</pl>
+	<en id="i17">A lot of additional settings can be added to the game. You can set them on menu screen. If you don't know what these setting are doing, move cursor over "?" sign on the left.</en>
+	<pl id="i17">Mozecie dodac wiele dodatkowych ustawien. Mozecie je ustawic na ekranie menu. Jezeli nie wiecie co robi dane ustawienie, najedzcie myszka nad symbol "?" po lewej stronie.</pl>
+	<!-- GAME TEXT -->
+	<en id="clicktostart">Click to start</en>
+	<pl id="clicktostart">Kliknij, aby zaczac</pl>
+	<en id="loading">Loading...</en>
+	<pl id="loading">Ladowanie</pl>
+	<en id="up">up</en>
+	<pl id="up">w góre</pl>
+	<en id="down">down</en>
+	<pl id="down">w dól</pl>
+	<en id="left">left</en>
+	<pl id="left">w lewo</pl>
+	<en id="right">right</en>
+	<pl id="right">w prawo</pl>
+	<en id="ok">ok</en>
+	<pl id="ok">ok</pl>
+	
+	<!-- RESULTS -->
+	<en id="c">Clicks: </en>
+	<pl id="c">Klikniecia: </pl>
+	<en id="cc">Correct clicks: </en>
+	<pl id="cc">Poprawne klikniecia: </pl>
+	<en id="ic">Incorrect clicks: </en>
+	<pl id="ic">Niepoprawne klikniecia: </pl>
+	<en id="menu">Menu</en>
+	<pl id="menu">Menu</pl>
+	<en id="playagain">Play again</en>
+	<pl id="playagain">Jeszcze raz</pl>
+	
+	<!-- SETTINGS -->
+	<en id="langchange">Language: English</en>
+	<pl id="langchange">Jezyk: Polski</pl>
+	<en id="credits">Credits</en>
+	<pl id="credits">Tworcy</pl>
+	<en id="author">Main developer/Code/Music: Bitowsky
+
+Translations:
+SlaVistaPL
+Olivka
+IcyyKJ / K9 Design
+
+Testing:
+ajszajn
+IcyyKJ / K9 Design
+Janex 06
+Olivka
+
+Game made with Construct 2
+</en>
+	<pl id="author">Glówny deweloper/Kod/Muzyka: Bitowsky
+
+Tlumaczenie:
+SlaVistaPL
+Olivka
+IcyyKJ / K9 Design
+
+Testowanie:
+ajszajn
+IcyyKJ / K9 Design
+Janex 06
+Olivka
+
+Gra stworzona w Construct 2
+</pl>
+	<en id="full">Fullscreen</en>
+	<pl id="full">Pelny ekran</pl>
+</str>
